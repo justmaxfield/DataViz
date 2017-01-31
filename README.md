@@ -1,2 +1,2 @@
 # DataViz
-A sample of data visualizations I created.
+A sample of data visualizations I've created.
